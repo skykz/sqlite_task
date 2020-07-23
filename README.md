@@ -1,6 +1,16 @@
 # test_project
 
-A new Flutter project.
+A flutter task 
+-- Sqlite 
+-- Location
+
+*** features:
+-- add order
+-- display all orders
+-- delete order
+-- get current location every 10 seconds
+-- display all locations
+
 
 ## Getting Started
 
