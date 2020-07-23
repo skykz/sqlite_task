@@ -1,15 +1,15 @@
 # test_project
 
-A flutter task 
--- Sqlite 
--- Location
+## A flutter task 
+##### Sqlite 
+##### Location
 
-*** features:
--- add order
--- display all orders
--- delete order
--- get current location every 10 seconds
--- display all locations
+### features:
+##### add order
+##### display all orders
+##### delete order
+##### get current location every 10 seconds
+##### display all locations
 
 
 ## Getting Started
